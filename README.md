@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ECHO is on.
 # Local Branch
 **This is bold text**
@@ -18,3 +19,8 @@ this is my [github account] (https://help.github.com/MuhamadNasirr) .
 - [ ] apply changes
 - [ ] open changes
 @githubaccount
+=======
+# my-first-repo
+####this is first modification
+**experiment**
+>>>>>>> 731cbc36726c60b397e1bb4d6e92aa819927a669
